@@ -5,3 +5,4 @@
 #支持指定架构
 # --platform=linux/arm64 xiaoyaliu/alist
 vulhub/node:8.5.0
+vulhub/flask:1.1.1
