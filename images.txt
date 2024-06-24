@@ -6,3 +6,4 @@
 # --platform=linux/arm64 xiaoyaliu/alist
 vulhub/node:8.5.0
 vulhub/flask:1.1.1
+vulhub/php:5.5-apache
