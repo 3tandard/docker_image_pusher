@@ -9,3 +9,4 @@ vulhub/flask:1.1.1
 vulhub/php:5.5-apache
 php:apache
 vulhub/nginx:1.4.2
+vulhub/php:5-fpm
