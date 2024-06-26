@@ -12,4 +12,4 @@ vulhub/nginx:1.4.2
 vulhub/php:5-fpm
 nginx:1
 php:fpm
-pikachu-expect:latest
+janes/beef
