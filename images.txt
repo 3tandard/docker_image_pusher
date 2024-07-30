@@ -13,3 +13,4 @@ vulhub/php:5-fpm
 nginx:1
 php:fpm
 beefproject/beef
+nginx:latest
