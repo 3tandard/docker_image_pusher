@@ -14,3 +14,4 @@ nginx:1
 php:fpm
 beefproject/beef
 nginx:latest
+c0ny1/sqli-labs
