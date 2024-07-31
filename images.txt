@@ -4,14 +4,14 @@
 # xhofe/alist:latest
 #支持指定架构
 # --platform=linux/arm64 xiaoyaliu/alist
-vulhub/node:8.5.0
-vulhub/flask:1.1.1
-vulhub/php:5.5-apache
-php:apache
-vulhub/nginx:1.4.2
-vulhub/php:5-fpm
-nginx:1
-php:fpm
-beefproject/beef
-nginx:latest
-c0ny1/sqli-labs
+# vulhub/node:8.5.0
+# vulhub/flask:1.1.1
+# vulhub/php:5.5-apache
+# php:apache
+# vulhub/nginx:1.4.2
+# vulhub/php:5-fpm
+# nginx:1
+# php:fpm
+# beefproject/beef
+# nginx:latest
+c0ny1/sqli-labs:0.1
