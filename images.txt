@@ -14,4 +14,5 @@
 # php:fpm
 # beefproject/beef
 # nginx:latest
-c0ny1/sqli-labs:0.1
+# c0ny1/sqli-labs:0.1
+centos:centos8
