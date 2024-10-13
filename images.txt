@@ -15,4 +15,5 @@
 # beefproject/beef
 # nginx:latest
 # c0ny1/sqli-labs:0.1
-centos:centos8
+# centos:centos8
+gitlab/gitlab-ce
