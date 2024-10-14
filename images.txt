@@ -21,4 +21,5 @@
 # nginx
 # mariadb
 # 2233466866/lnmp:latest
-nginxproxy/nginx-proxy
+# nginxproxy/nginx-proxy
+alterway/keepalived
