@@ -22,4 +22,4 @@
 # mariadb
 # 2233466866/lnmp:latest
 # nginxproxy/nginx-proxy
-alterway/keepalived
+sajibuu/upload_bypass
