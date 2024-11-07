@@ -23,4 +23,5 @@
 # 2233466866/lnmp:latest
 # nginxproxy/nginx-proxy
 # sajibuu/upload_bypass
-diygod/rsshub
+# diygod/rsshub
+wangqiru/ttrss:latest
