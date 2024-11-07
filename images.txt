@@ -25,3 +25,6 @@
 # sajibuu/upload_bypass
 # diygod/rsshub
 wangqiru/ttrss:latest
+wangqiru/mercury-parser-api:latest
+wangqiru/opencc-api-server:latest
+postgres:16-alpine
