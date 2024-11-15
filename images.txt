@@ -24,7 +24,10 @@
 # nginxproxy/nginx-proxy
 # sajibuu/upload_bypass
 # diygod/rsshub
-wangqiru/ttrss:latest
-wangqiru/mercury-parser-api:latest
-wangqiru/opencc-api-server:latest
-postgres:16-alpine
+# wangqiru/ttrss:latest
+# wangqiru/mercury-parser-api:latest
+# wangqiru/opencc-api-server:latest
+# postgres:16-alpine
+ki9mu/arl-ki9mu:v3.0.0
+mongo:4.0.27
+ki9mu/shadow-rabbitmq:latest
