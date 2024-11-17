@@ -31,4 +31,21 @@
 # ki9mu/arl-ki9mu:v3.0.0
 # mongo:4.0.27
 # ki9mu/shadow-rabbitmq:latest
-greenbone/openvas-scanner:edge
+# greenbone/openvas-scanner:edge
+registry.community.greenbone.net/community/vulnerability-tests
+registry.community.greenbone.net/community/notus-data
+registry.community.greenbone.net/community/scap-data
+registry.community.greenbone.net/community/cert-bund-data
+registry.community.greenbone.net/community/dfn-cert-data
+registry.community.greenbone.net/community/data-objects
+registry.community.greenbone.net/community/report-formats
+registry.community.greenbone.net/community/gpg-data
+registry.community.greenbone.net/community/redis-server
+registry.community.greenbone.net/community/pg-gvm
+registry.community.greenbone.net/community/gvmd
+registry.community.greenbone.net/community/gsa
+registry.community.greenbone.net/community/openvas-scanner
+registry.community.greenbone.net/community/openvas-scanner
+registry.community.greenbone.net/community/openvas-scanner
+registry.community.greenbone.net/community/ospd-openvas
+registry.community.greenbone.net/community/gvm-tools
