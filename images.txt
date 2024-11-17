@@ -41,11 +41,12 @@
 # registry.community.greenbone.net/community/report-formats
 # registry.community.greenbone.net/community/gpg-data
 # registry.community.greenbone.net/community/redis-server
-registry.cn-hangzhou.aliyuncs.com/sec-images/pg-gvm:stable
-registry.cn-hangzhou.aliyuncs.com/sec-images/gvmd:stable
-registry.cn-hangzhou.aliyuncs.com/sec-images/gsa:stable
-registry.cn-hangzhou.aliyuncs.com/sec-images/openvas-scanner:stable
-registry.cn-hangzhou.aliyuncs.com/sec-images/openvas-scanner:stable
-registry.cn-hangzhou.aliyuncs.com/sec-images/openvas-scanner:stable
-registry.cn-hangzhou.aliyuncs.com/sec-images/ospd-openvas:stable
+# registry.cn-hangzhou.aliyuncs.com/sec-images/pg-gvm:stable
+# registry.cn-hangzhou.aliyuncs.com/sec-images/gvmd:stable
+# registry.cn-hangzhou.aliyuncs.com/sec-images/gsa:stable
+# registry.cn-hangzhou.aliyuncs.com/sec-images/openvas-scanner:stable
+# registry.cn-hangzhou.aliyuncs.com/sec-images/openvas-scanner:stable
+# registry.cn-hangzhou.aliyuncs.com/sec-images/openvas-scanner:stable
+# registry.cn-hangzhou.aliyuncs.com/sec-images/ospd-openvas:stable
 # registry.community.greenbone.net/community/gvm-tools
+tenable/nessus:latest-oracle
