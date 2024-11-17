@@ -32,20 +32,20 @@
 # mongo:4.0.27
 # ki9mu/shadow-rabbitmq:latest
 # greenbone/openvas-scanner:edge
-registry.community.greenbone.net/community/vulnerability-tests
-registry.community.greenbone.net/community/notus-data
-registry.community.greenbone.net/community/scap-data
-registry.community.greenbone.net/community/cert-bund-data
-registry.community.greenbone.net/community/dfn-cert-data
-registry.community.greenbone.net/community/data-objects
-registry.community.greenbone.net/community/report-formats
-registry.community.greenbone.net/community/gpg-data
-registry.community.greenbone.net/community/redis-server
-registry.community.greenbone.net/community/pg-gvm
-registry.community.greenbone.net/community/gvmd
-registry.community.greenbone.net/community/gsa
-registry.community.greenbone.net/community/openvas-scanner
-registry.community.greenbone.net/community/openvas-scanner
-registry.community.greenbone.net/community/openvas-scanner
-registry.community.greenbone.net/community/ospd-openvas
-registry.community.greenbone.net/community/gvm-tools
+# registry.community.greenbone.net/community/vulnerability-tests
+# registry.community.greenbone.net/community/notus-data
+# registry.community.greenbone.net/community/scap-data
+# registry.community.greenbone.net/community/cert-bund-data
+# registry.community.greenbone.net/community/dfn-cert-data
+# registry.community.greenbone.net/community/data-objects
+# registry.community.greenbone.net/community/report-formats
+# registry.community.greenbone.net/community/gpg-data
+# registry.community.greenbone.net/community/redis-server
+registry.cn-hangzhou.aliyuncs.com/sec-images/pg-gvm:stable
+registry.cn-hangzhou.aliyuncs.com/sec-images/gvmd:stable
+registry.cn-hangzhou.aliyuncs.com/sec-images/gsa:stable
+registry.cn-hangzhou.aliyuncs.com/sec-images/openvas-scanner:stable
+registry.cn-hangzhou.aliyuncs.com/sec-images/openvas-scanner:stable
+registry.cn-hangzhou.aliyuncs.com/sec-images/openvas-scanner:stable
+registry.cn-hangzhou.aliyuncs.com/sec-images/ospd-openvas:stable
+# registry.community.greenbone.net/community/gvm-tools
