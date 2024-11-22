@@ -49,4 +49,5 @@
 # registry.cn-hangzhou.aliyuncs.com/sec-images/openvas-scanner:stable
 # registry.cn-hangzhou.aliyuncs.com/sec-images/ospd-openvas:stable
 # registry.community.greenbone.net/community/gvm-tools
-tenable/nessus:latest-oracle
+# tenable/nessus:latest-oracle
+vulhub/shiro:1.5.1
