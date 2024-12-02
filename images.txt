@@ -50,4 +50,5 @@
 # registry.cn-hangzhou.aliyuncs.com/sec-images/ospd-openvas:stable
 # registry.community.greenbone.net/community/gvm-tools
 # tenable/nessus:latest-oracle
-vulhub/shiro:1.5.1
+# vulhub/shiro:1.5.1
+ullaakut/cameradar
