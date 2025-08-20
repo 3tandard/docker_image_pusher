@@ -52,6 +52,7 @@
 # tenable/nessus:latest-oracle
 # vulhub/shiro:1.5.1
 # ullaakut/cameradar
-ki9mu/arl-ki9mu:v3.0.0
-mongo:4.0.27
-ki9mu/shadow-rabbitmq:latest
+# ki9mu/arl-ki9mu:v3.0.0
+# mongo:4.0.27
+# ki9mu/shadow-rabbitmq:latest
+yiminger/ymicp:yolo8_latest
