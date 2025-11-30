@@ -55,4 +55,5 @@
 # ki9mu/arl-ki9mu:v3.0.0
 # mongo:4.0.27
 # ki9mu/shadow-rabbitmq:latest
-yiminger/ymicp:yolo8_latest
+# yiminger/ymicp:yolo8_latest
+ ghcr.io/xmendez/wfuzz
